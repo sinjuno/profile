@@ -87,7 +87,7 @@
   <tr>
     <td align="center" valign="middle" width="55%">
       <img
-        src="https://github-readme-stats-fast.vercel.app/api?username=hyunjeong222&hide_border=true&rank_icon=github&theme=shadow_green"
+        src="https://github-readme-stats-fast.vercel.app/api?username=junho&hide_border=true&rank_icon=github&theme=shadow_green"
       />
     </td>
     <td align="left" valign="top" width="45%">
@@ -103,20 +103,6 @@
 <br>
 
 <div align=center>
-  <b>🏆 Tier 🏆</b>
-  
-  <br>
-  <br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360)](https://solved.ac/guswjd2360/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=guswjd2360&theme=warm)
-
-</div>
-
-<br>
-<br>
-
-<div align=center>
 <b>📧 Contact Me 📧</b>
 <br>
 If you contact me, I can provide you with a Resume and Portfolio.
@@ -125,7 +111,7 @@ If you contact me, I can provide you with a Resume and Portfolio.
 <br>
 
 <div align=center>
-  <a href="https://mail.naver.com/write/ext?srvid=note&to=guswjd2360@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail"/></a>
+  <a href="https://mail.naver.com/write/ext?srvid=note&to=sinjunho17@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail"/></a>
 </div>
 
 </div>
